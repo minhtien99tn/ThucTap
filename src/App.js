@@ -12,7 +12,7 @@ import HeaderBlog from "./Components/Blog/HeaderBlog";
 import BodyBlog from "./Components/Blog/BodyBlog";
 import FooterBlog from "./Components/Blog/FooterBlog";
 import { isPromise } from "formik";
-import LamDe from "./Components/LamDeThi";
+import LamDe, { A } from "./Components/LamDeThi";
 
 // import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 // import FooterBlog from './Components/Blog/FooterBlog';

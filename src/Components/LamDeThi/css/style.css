@@ -1700,7 +1700,7 @@ figure {
   padding: 0 20px;
 }
 .ans-content li {
-  background: url(/images/de1ad.jpg);
+  /* background: url(../images/de1ad.jpg); */
   height: 80px;
   background-position: center center;
   background-size: cover;
